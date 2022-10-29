@@ -1,0 +1,10 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/wele3795/public_html/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp /assets $DEPLOYPATH
+    - /bin/cp /vendor $DEPLOYPATH
+    - /bin/cp /views $DEPLOYPATH
+    - /bin/cp /.cpanel.yml $DEPLOYPATH
+    - /bin/cp /LICENSE $DEPLOYPATH
