@@ -1,44 +1,100 @@
 {
   "Questions": [
     {
-      "Quiz": "Q.1) What does HTML stand for?",
-      "option1": "Hyper Type Markup Language",
-      "option2": "Home Tool Markup Language",
-      "option3": "Hyper Link and Text Markup Language",
-      "option4": "Hyper Text Markup Language",
-      "answer": "Hyper Text Markup Language"
+      "Quiz": "Q.1) Dalam satu bulan terakhir, apakah kamu merasa tidak sanggup mengatasi kesulitan?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
     },
     {
-      "Quiz": "Q.2) What does CSS stand for?",
-      "option1": "Colorful Style Sheets",
-      "option2": "Computer Style Sheets",
-      "option3": "Creative Style Sheets",
-      "option4": "Cascading Style Sheets",
-      "answer": "Cascading Style Sheets"
+      "Quiz": "Q.2) Dalam satu bulan terakhir, apakah kamu merasa tidak bahagia dan tertekan?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
     },
     {
-      "Quiz": "Q.3) Which HTML attribute is used to define inline styles?",
-      "option1": "Style",
-      "option2": "Font",
-      "option3": "Class",
-      "option4": "Styles",
-      "answer": "Style"
+      "Quiz": "Q.3) Dalam satu bulan terakhir, apakah kamu merasa sulit untuk mengambil keputusan?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
     },
     {
-      "Quiz": "Q.4) Which is the correct CSS syntax?",
-      "option1": "body:color=black;",
-      "option2": "{body:color=black;}",
-      "option3": "body{color:black;}",
-      "option4": "{body;color:black;}",
-      "answer": "body{color:black;}"
+      "Quiz": "Q.4) Apakah dalam satu bulan terakhir, kamu merasa mampu melakukan hal-hal yang bermanfaat dalam hidup?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
     },
     {
-      "Quiz": "Q.5) What is the correct HTML tag for playing video files?",
-      "option1": "media",
-      "option2": "movie",
-      "option3": "video",
-      "option4": "mp4",
-      "answer": "video"
+      "Quiz": "Q.5) Dalam satu bulan terakhir, apakah kamu bisa menikmati kegiatan atau pekerjaan sehari-harimu?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
+    },
+    {
+      "Quiz": "Q.6) Dalam satu bulan terakhir, apakah kamu merasa tenang dan damai?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
+    },
+    {
+      "Quiz": "Q.7) Dalam satu bulan terakhir, apakah kamu susah tidur karena khawatir?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
+    },
+    {
+      "Quiz": "Q.8) Dalam satu bulan terakhir, apakah kamu bisa berkonsentrasi pada hal-hal yang sedang kamu kerjakan?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
+    },
+    {
+      "Quiz": "Q.9) Dalam satu bulan terakhir, apakah kamu bisa menghadapi masalah-masalah yang ada?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
+    },
+    {
+      "Quiz": "Q.10) Dalam satu bulan terakhir, apakah kamu merasa kehilangan kepercayaan diri?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
+    },
+    {
+      "Quiz": "Q.11) Dalam satu bulan terakhir, seberapa sering anda merasa telah menjadi orang yang bahagia?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
+    },
+    {
+      "Quiz": "Q.12) Dalam satu bulan terakhir, seberapa sering kamu berpikir bahwa kamu adalah seorang yang tidak berguna?",
+      "option1": "Iya, lebih dari biasanya",
+      "option2": "Sama saja seperti biasanya",
+      "option3": "Kurang dari biasanya",
+      "option4": "Sangat berkurang dari biasanya",
+      "answer": "xxx"
     },
     {
       "Quiz": "Q.6) Which HTML attribute is used to define inline styles?",
