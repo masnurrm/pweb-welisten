@@ -39,6 +39,161 @@
       "option3": "video",
       "option4": "mp4",
       "answer": "video"
+    },
+    {
+      "Quiz": "Q.6) Which HTML attribute is used to define inline styles?",
+      "option1": "Style",
+      "option2": "Font",
+      "option3": "Class",
+      "option4": "Styles",
+      "answer": "Style"
+    },
+    {
+      "Quiz": "Q.7) Which is the correct CSS syntax?",
+      "option1": "body:color=black;",
+      "option2": "{body:color=black;}",
+      "option3": "body{color:black;}",
+      "option4": "{body;color:black;}",
+      "answer": "body{color:black;}"
+    },
+    {
+      "Quiz": "Q.8) What is the correct HTML tag for playing video files?",
+      "option1": "media",
+      "option2": "movie",
+      "option3": "video",
+      "option4": "mp4",
+      "answer": "video"
+    },
+    {
+      "Quiz": "Q.9) Which HTML attribute is used to define inline styles?",
+      "option1": "Style",
+      "option2": "Font",
+      "option3": "Class",
+      "option4": "Styles",
+      "answer": "Style"
+    },
+    {
+      "Quiz": "Q.10) Which is the correct CSS syntax?",
+      "option1": "body:color=black;",
+      "option2": "{body:color=black;}",
+      "option3": "body{color:black;}",
+      "option4": "{body;color:black;}",
+      "answer": "body{color:black;}"
+    },
+    {
+      "Quiz": "Q.11) What is the correct HTML tag for playing video files?",
+      "option1": "media",
+      "option2": "movie",
+      "option3": "video",
+      "option4": "mp4",
+      "answer": "video"
+    },
+    {
+      "Quiz": "Q.12) Which HTML attribute is used to define inline styles?",
+      "option1": "Style",
+      "option2": "Font",
+      "option3": "Class",
+      "option4": "Styles",
+      "answer": "Style"
+    },
+    {
+      "Quiz": "Q.13) Dalam sebulan terakhir, seberapa sering Anda tiba-tiba merasa lelah?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.14) Dalam sebulan terakhir, seberapa sering Anda merasa cemas?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.15) Dalam sebulan terakhir, seberapa sering Anda merasa cemas sampai tidak bisa menenangkan diri sendiri meskipun ada bantuan?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.16) Dalam sebulan terakhir, seberapa sering Anda merasa putus asa?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.17) Dalam sebulan terakhir, seberapa sering Anda merasa gelisah atau tidak tenang?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.18) Dalam sebulan terakhir, seberapa sering Anda merasa sangat gelisah sampai Anda tidak bisa tidur dengan tenang?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.19) Dalam sebulan terakhir, seberapa sering Anda merasa depresi/sedih yang mendalam?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.20) Dalam sebulan terakhir, seberapa sering Anda merasa sulit melakukan sesuatu yang biasanya mudah dilakukan?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.21) Dalam sebulan terakhir, seberapa sering Anda merasa sangat sedih sampai tidak ada yang dapat membuat kamu terhibur?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.22) Dalam sebulan terakhir, seberapa sering Anda merasa tidak berharga?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
+    },
+    {
+      "Quiz": "Q.23) Dalam sebulan terakhir, seberapa sering Anda merasa tidak mampu menangani masalahmu sendiri?",
+      "option1": "Tidak Pernah",
+      "option2": "Jarang",
+      "option3": "Kadang-Kadang",
+      "option4": "Sering",
+      "option5": "Selalu",
+      "answer": "XXX"
     }
   ]
 }
