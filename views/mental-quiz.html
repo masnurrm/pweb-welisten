@@ -25,13 +25,13 @@
 
 </head>
 
-<body>
-	<div class=" mt-5">
+<body style="background: white; color: white;">
+	<div class="container mt-5">
 		<h5 class="card-text float-right font-weight-bold">Total Waktu: <br> (00: <span id="time">00</span>)</h5>
 
 		<!-- First Page -->
 		<div class="row d-flex justify-content-center">
-			<div class="col-md-8 border p-4">
+			<div class="col-md-10 border p-4">
 				<div class="card-body">
 					<h5 class="card-text float-right font-weight-bold">Mental Quiz by WeListen</h5>
 					<h5>(<span id="number">0</span> of 23)</h5>
@@ -43,7 +43,7 @@
 					<p>Setiap jawaban akan memiliki poin tersendiri. Hasil akan muncul di akhir dan Anda akan mendapatkan rekomendasi psikiater yang cocok berdasarkan hasil tersebut.
 					</p>
 					<button class="btn btn-success d-flex mx-auto mt-4" id="btn">
-						<h5>Mulai!</h5>
+						<h5 style="color: white;">Mulai!</h5>
 					</button>
 				</div>
 
@@ -67,8 +67,12 @@
 					</div>
 
 					<div class="d-flex justify-content-center">
+                        <a href="../views/result.html">
 						<button class="btn btn-primary btn-lg mx-auto" id="finish">Akhiri</button>
-
+                        <!-- <a href="../views/result.html">
+                            <button href class="btn btn-primary btn-lg mx-auto">Akhiri</button>
+                          </a>  -->
+                        </a>
 					</div>
 
 				</div>
@@ -84,6 +88,16 @@
 
 		</div>
 	</div>
+
+    <footer style="position: fixed;">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-12">
+              <p>Copyright © WeListen. All rights reserved. 
+            </div>
+          </div>
+        </div>
+      </footer>
 
 
 	<script>
